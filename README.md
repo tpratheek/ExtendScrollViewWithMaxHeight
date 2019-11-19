@@ -22,4 +22,4 @@ gradle module level:
 
 #Example
 #For Chip Group
-/home/nineleaps/Downloads/ezgif.com-video-to-gif.gif
+![](ezgif.com-video-to-gif.gif)
