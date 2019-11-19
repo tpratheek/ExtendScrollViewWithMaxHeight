@@ -18,3 +18,8 @@ gradle module level:
 	dependencies {
 	        implementation 'com.github.tpratheek:ExtendScrollViewWithMaxHeight:1.0.0'
 	}
+
+
+#Example
+#For Chip Group
+/home/nineleaps/Downloads/ezgif.com-video-to-gif.gif
