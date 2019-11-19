@@ -2,7 +2,7 @@
 
 Scroll View can be fixed for a particular height
 
-##Implementation
+# Implementation
 
 gradle project level:
 
@@ -15,6 +15,6 @@ gradle project level:
   
 gradle app level: 
 
-dependencies {
+	dependencies {
 	        implementation 'com.github.tpratheek:ExtendScrollViewWithMaxHeight:1.0.0'
 	}
