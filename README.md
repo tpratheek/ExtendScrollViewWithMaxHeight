@@ -13,7 +13,7 @@ gradle project level:
 		}
 	}
   
-gradle app level: 
+gradle module level: 
 
 	dependencies {
 	        implementation 'com.github.tpratheek:ExtendScrollViewWithMaxHeight:1.0.0'
