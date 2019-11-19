@@ -21,5 +21,6 @@ gradle module level:
 
 
 #Example
+
 #For Chip Group
-![](https://imgflip.com/gif/3gu5jn)
+<a href="https://imgflip.com/gif/3gu5jn"><img src="https://i.imgflip.com/3gu5jn.gif" title="made at imgflip.com"/></a>
